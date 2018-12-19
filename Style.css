@@ -1,0 +1,67 @@
+body
+{
+    color: aliceblue;
+    max-width: 625px;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.Title
+{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+div
+{
+    display: inline-block;
+    border-bottom:25px white solid;
+    
+    padding: 30px 25px 15px 25px;
+
+    margin: none;
+
+    background-size: contain;
+    
+    height: 205px;
+    
+    border-radius: 4px;
+}
+
+.Yellow
+{
+    background-image: url("../Ui_Domaci/domaci/žuta.jpg");
+}
+
+.Pink
+{
+    background-image: url("../Ui_Domaci/domaci/roza.jpg");
+}
+
+.Telephone
+{
+    background-image: url("../Ui_Domaci/domaci/telefon.jpg");
+}
+
+p
+{
+    padding: 15px 60px 30px 0px;
+    margin: 0px;
+    font-size: 15px;
+}
+
+.NewFour
+{
+    display: block;
+    border: 0px;
+    padding: 0px;
+    height: auto;
+}
+
+.Info
+{
+    display: inline-block;
+    padding: 5px 12px;
+    margin: 0px 5px 10px 0px;
+    background-color: rgba(207, 207, 207, 0.360);
+    border-radius: 25px;
+}
